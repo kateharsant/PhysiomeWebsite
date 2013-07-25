@@ -9,7 +9,7 @@ navtitle:
 ---
 ## Multiscale regulatory networks in the brainstem
 
-<img src="/assets/img/people/220x220/borenstein-elhanan.jpg" alt="" class="portrait-left" />
+<img src="http://db.tt/Vi5Z6shP" alt="" class="portrait-left" />
 
 
 #### About Rajanikanth Vadigepalli
